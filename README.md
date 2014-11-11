@@ -10,7 +10,7 @@ See the [requirements](https://github.com/go-qml/qml/tree/master) of go-qml. If 
 
 ### Platforms:
 
-All that supported by go-qml. Requires installed `gopkg.in/qml.v0` package.
+All that supported by go-qml. Requires installed `gopkg.in/qml.v1` package.
 
 ### Doc: 
 
